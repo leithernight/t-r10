@@ -1,0 +1,11 @@
+.container {
+    padding-top: 3rem;
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container h1 {
+    margin-bottom: 1rem;
+    color: blueviolet;
+}
